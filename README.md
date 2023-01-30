@@ -1,10 +1,18 @@
-# About
-🎲 i'm max 96, i'm a developer and a content creator.
-🧨 i'm Creating cursors, megapacks, source of apps, and powering the style of MacOS too, making future designs, a part of the github developers program.
-🎇i make macOS and windows better.
-# to support me
-coindrop.to/rtx
-# my creations
-i like making MacOS for windows, and windows for MacOS!
-# 🏳‍🌈 MacOS for windows 🌈
-i create MacOS cursors megapack, icon megapack, sources and codes.
+<a href="https://github.com/max96git/max96git" target="_blank">
+  <img src="assets/ico.ico" alt="max96git" />
+</a>
+
+
+## 👋 About
+- Developer and content creator.
+- explorer of the world of tech and programming.
+- Youtuber (not a real youtuber, still reaching my goal)
+## 📫  Socials
+- [Youtube](https://youtube.com/@max96git)
+## 🌱 Projects
+- [max 96 spirals](https://github.com/max96git/max-96-spirals)
+- [max 96 cursors](https://github.com/max96git/max-96-cursors)
+- [max 96 progressive](https://github.com/max96git/max96-progressive)
+- [max 96's MacOS cursors megapack](https://github.com/max96git/max96-s-macos-cursors-megapack)
+## 🤖 WIP projects
+- GET (git extension tool)
