@@ -1,5 +1,5 @@
 <a href="https://github.com/max96git/max96git" target="_blank">
-  <img src="assets/[removal.ai]_tmp-644f94095ac43.png" alt="max96git" />
+  <img src="assets/rainbowhair-oblox.png" alt="max96git" />
 </a>
 
 
