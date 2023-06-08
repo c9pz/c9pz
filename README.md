@@ -15,4 +15,4 @@
 - [max 96 progressive](https://github.com/max96git/max96-progressive)
 - [max 96's MacOS cursors megapack](https://github.com/max96git/max96-s-macos-cursors-megapack)
 ## 🤖 WIP projects
-im thinking about one
+- Vapoware
