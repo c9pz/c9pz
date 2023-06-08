@@ -1,5 +1,5 @@
 <a href="https://github.com/max96git/max96git" target="_blank">
-  <img src="assets/PancakeRTX.png" alt="max96git" />
+  <img src="assets/bigger.jpeg" alt="max96git" />
 </a>
 
 
