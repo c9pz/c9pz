@@ -1,5 +1,5 @@
 <a href="https://github.com/max96git/max96git" target="_blank">
-  <img src="assets/20230708_000114.JPG "alt="max96git" />
+  <img src="assets/javaood (1).png "alt="max96git" />
   
 
 
