@@ -1,11 +1,3 @@
-<a href="https://github.com/max96git/max96git" target="_blank">
-  <img src="assets/blue-frame-designify.png "alt="max96git" />
-  
-
-
-</a>
-
-
 ## 👋 About
 - Developer and content creator.
 - explorer of the world of tech and programming.
