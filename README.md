@@ -1,13 +1,16 @@
-## 👋 About
-- Developer and content creator.
-- explorer of the world of tech and programming.
-- Youtuber (trying to reach 100 subscribers)
-## 📫  Socials
+   <img src="assets/2D-3D.jpg" alt="bruh" width="1920" height="500" />
+  </a>
+  
+# welcome to max96git's cursed world
+## 👋 about
+- developer, content creator, 3D modeler
+- roblox player
+## 📫  socials
 - [Youtube](https://youtube.com/@max96git)
-## 🌱 Projects
+## 🌱 things i made
 - [max 96 spirals](https://github.com/max96git/max-96-spirals)
 - [max 96 cursors](https://github.com/max96git/max-96-cursors)
 - [max 96 progressive](https://github.com/max96git/max96-progressive)
 - [max 96's MacOS cursors megapack](https://github.com/max96git/max96-s-macos-cursors-megapack)
-## 🤖 WIP projects
-literally nothing, im thinking what project should i make.
+
+
