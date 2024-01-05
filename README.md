@@ -1,4 +1,4 @@
-   <img src="assets/conevr.jpg" alt="bruh" width="1920" height="500" />
+   <img src="assets/Untitled.jpeg" alt="bruh" width="1920" height="500" />
   </a>
   
 # welcome to max96git's cursed world
