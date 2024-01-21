@@ -1,7 +1,7 @@
    <img src="assets/LOGO_MAGIC_PLANET_2.png" alt="bruh" width="300" height="142" />
   </a>
   
-# welcome to max96git's world
+# welcome to max96git's planet
 ## 👋 about
 - developer, content creator, 3D modeler
 - roblox player & developer
