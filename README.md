@@ -1,4 +1,4 @@
-   <img src="assets/LOGO_MAGIC_PLANET_2.png" alt="bruh" width="1920" height="500" />
+   <img src="assets/LOGO_MAGIC_PLANET_2.png" alt="bruh" width="300" height="142" />
   </a>
   
 # welcome to max96git's world
