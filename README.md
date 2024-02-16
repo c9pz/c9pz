@@ -5,6 +5,7 @@
 ## 👋 about
 - developer, content creator, 3D modeler
 - roblox player & developer
+- fortnite player
 ## 📫  socials
 - [Youtube](https://youtube.com/@max96git)
 ## 🌱 things i made
