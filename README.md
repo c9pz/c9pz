@@ -1,7 +1,7 @@
    <img src="assets/cat23324.gif" alt="X CAT" width="300" height="142" />
   </a>
   
-# Hi! i'm max96git.
+# Hi! i'm c9pz.
 ## Experience/About
 - Developer
 - I like to code things
