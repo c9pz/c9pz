@@ -1,11 +1,7 @@
-   <img src="assets/bvanner_github.png" alt="banner" width="300" height="142" />
+   <img src="assets/bvanner_github.png" alt="banner" width="1095" height="313" />
   </a>
   
 # Hi! i'm c9pz.
-## Experience/About
-- Developer
-- I like to code things
-- Youtuber
 ## 📫 Socials
 - [Youtube](https://youtube.com/@max96git)
 ## 🌱 Projects
