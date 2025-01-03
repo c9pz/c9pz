@@ -1,4 +1,4 @@
-   <img src="assets/cat23324.gif" alt="X CAT" width="300" height="142" />
+   <img src="assets/bvanner_github.png" alt="banner" width="300" height="142" />
   </a>
   
 # Hi! i'm c9pz.
